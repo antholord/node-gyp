@@ -256,3 +256,4 @@ is run via `npm`, not when `node-gyp` is run directly.
 
 `node-gyp` is available under the MIT license. See the [LICENSE
 file](LICENSE) for details.
+
